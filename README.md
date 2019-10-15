@@ -1,0 +1,2 @@
+# php-crud
+PHP-CRUD OPERATIONS WITH MySQL DB
